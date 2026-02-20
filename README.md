@@ -1,4 +1,4 @@
-# fran-curso
+# CURSO
 Primer repo creado en github
 
 ## descripción 
